@@ -1,0 +1,16 @@
+{
+  "name": "test-asyncapi-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kaushik-rishi",
+  "license": "ISC",
+  "dependencies": {
+    "@asyncapi/parser": "^3.0.14"
+  }
+}
